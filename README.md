@@ -1,4 +1,12 @@
-### Hi there 👋
+### Salut 👋
+
+Je dev des truc de temps en temp ici quand je sais pas quoi faire
+
+![UwU's github stats](https://github-readme-stats.vercel.app/api?username=UwU0001&count_private=true&show_icons=true&title_color=922cc9&icon_color=922cc9&bg_color=ffffff)
+
+vous pouvez voir mon nombres de commits ci-dessous aussi :)
+
+![alt text](https://i.imgur.com/z8JcL9c.png)
 
 <!--
 **UwU0001/UwU0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
