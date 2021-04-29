@@ -1,6 +1,6 @@
 ### Salut 👋
 
-Jeu de ces projets de temps en temps ici, surtout très variés sans vraiment de liens  
+Je dev des projets de temps en temps ici, surtout très variés sans vraiment de liens  
 
 - 🔭 Actuellement je travaille plutôt sur Discord Utilies
 - 🌱 J'apprends encore et toujours le java *(100% en autodidacte)*
