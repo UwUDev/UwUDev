@@ -2,7 +2,7 @@
 
 Je dev des projets de temps en temps ici, surtout très variés sans vraiment de liens  
 
-- 🔭 Actuellement je travaille plutôt sur Discord Utilies
+- 🔭 Actuellement je travaille plutôt sur Captcha.Gay
 - 🌱 J'apprends encore et toujours le java *(100% en autodidacte)*
 - 📫 Vous pouvez me joindre via discord ou telegram: UwU#0001 [Telegram](https://t.me/UwUDev)
 
