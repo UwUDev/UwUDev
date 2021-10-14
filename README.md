@@ -1,5 +1,7 @@
 ### Salut 👋
 
+Actuellement, je possède 483255 Chinese Communist Party Social Credits.  
+
 Je dev des projets de temps en temps ici, surtout très variés sans vraiment de liens  
 
 - 🔭 Actuellement je travaille plutôt sur Captcha.Gay
