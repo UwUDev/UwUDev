@@ -6,7 +6,7 @@ Je dev des projets de temps en temps ici, surtout très variés sans vraiment de
 
 - 🔭 Actuellement je travaille plutôt sur des APIs privés
 - 🌱 J'apprends  depuis peu le Rust
-- 📫 Vous pouvez me joindre via discord ou telegram: UwU#0001 [Telegram](https://t.me/UwUDev)
+- 📫 Vous pouvez me joindre via discord ou telegram: @uwudev_ [Telegram](https://t.me/UwUDev)
 
 ![UwU's github stats](https://github-readme-stats.vercel.app/api?username=UwUDev&count_private=true&show_icons=true&title_color=922cc9&icon_color=922cc9&bg_color=151c26&text_color=ffffff)
 
