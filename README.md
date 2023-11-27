@@ -10,11 +10,4 @@ Je dev des projets de temps en temps ici, surtout très variés sans vraiment de
 
 ![UwU's github stats](https://github-readme-stats.vercel.app/api?username=UwUDev&count_private=true&show_icons=true&title_color=922cc9&icon_color=922cc9&bg_color=151c26&text_color=ffffff)
 
-<!--
-vous pouvez voir mon nombres de commits (repos privés non unclus) ci-dessous aussi :)-->
-
-<!--
-![alt text](https://i.imgur.com/z8JcL9c.png)-->
-
-<!--
-**UwU0001/UwU0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+Miam le poulet gratuit btw 🍗
