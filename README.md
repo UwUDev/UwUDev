@@ -34,7 +34,7 @@ $\textsf{\color{#D9A1A6}{A}\color{#D8A0A6}{l}\color{#D7A0A6}{s}\color{#D7A0A6}{o
 
 $\textsf{\color{#5D6AF2}{Discord:}}$ [@uwudev_](https://discord.com/users/430810808692244480)
 
-$\textsf{\color{#088CCE}{Discord:}}$ [@UwUDev](https://t.me/UwUDev)
+$\textsf{\color{#088CCE}{Telegram:}}$ [@UwUDev](https://t.me/UwUDev)
 
 $\textsf{\color{#515151}{You}\color{#C4300B}{Tube}}$: [UwU's legit channel](https://www.youtube.com/@uwuslegitchannel3691)
 
